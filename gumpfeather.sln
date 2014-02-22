@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{7585CE29-BDB0-5866-4056-3E28951BCD0D}") = "gumpfeather", "Assembly-CSharp.csproj", "{F94C5DBE-0A63-C3A2-A372-6030AF3AF294}"
 EndProject
-Project("{7585CE29-BDB0-5866-4056-3E28951BCD0D}") = "gumpfeather", "Assembly-CSharp-Editor.csproj", "{DB168FEA-36FA-958F-D345-C042008FA581}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,15 +13,11 @@ Global
 		{F94C5DBE-0A63-C3A2-A372-6030AF3AF294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94C5DBE-0A63-C3A2-A372-6030AF3AF294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94C5DBE-0A63-C3A2-A372-6030AF3AF294}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB168FEA-36FA-958F-D345-C042008FA581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DB168FEA-36FA-958F-D345-C042008FA581}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DB168FEA-36FA-958F-D345-C042008FA581}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DB168FEA-36FA-958F-D345-C042008FA581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																								GlobalSection(MonoDevelopProperties) = preSolution
+																											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
